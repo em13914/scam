@@ -1,0 +1,36 @@
+/* Learn more about stying using the CSS: active Selector: https://www.w3schools.com/cssref/sel_active.asp */
+
+body {
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.top-row {
+	height: 30vh;
+	width: 100vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.bottom-row {
+	height: 70vh;
+	width: 100vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#text {
+	display: none;
+	font-size: 100px;
+}
+
+img {
+	min-width: 50%;
+}
