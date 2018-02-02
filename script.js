@@ -4,4 +4,4 @@ function showText(e){
 	document.getElementById("text").style.display = "flex";
 }
 
-setTimeout(showText, 500);
+setTimeout(showText, 750);
