@@ -8,6 +8,7 @@ body {
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
+	color: #000000;
 }
 
 .top-row {
@@ -31,8 +32,6 @@ body {
 	font-size: 100px;
 	font-family: "Impact", Charcoal, sans-serif;
 	color: #ffffff;
-	-webkit-text-stroke-width: 6px;
-  	-webkit-text-stroke-color: black;
 }
 
 img {
