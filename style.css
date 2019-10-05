@@ -30,6 +30,9 @@ body {
 	display: none;
 	font-size: 100px;
 	font-family: "Impact", Charcoal, sans-serif;
+	color: #ffffff;
+	-webkit-text-stroke-width: 1px;
+  	-webkit-text-stroke-color: black;
 }
 
 img {
